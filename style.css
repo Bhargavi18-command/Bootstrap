@@ -1,0 +1,28 @@
+.button-container{
+    text-align: center;
+    
+}
+button{
+   
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border:none;
+    border-radius: 5px;
+
+}
+.navbar-brand{
+    color:#2a15e5;
+    font-size: 30px;
+    font-weight: bold;
+}
+a:hover{
+    box-shadow: 0 0 5px cyan,
+    
+}
+h2{
+    color:rgb(223, 76, 22)
+}
+footer{
+    font-weight: bold;
+}
